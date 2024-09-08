@@ -4,15 +4,6 @@
 
 My motivation for this project was to get into a coders mindset as well as learn some basics to coding. I built this project so that I could learn the basics to HTML, CSS, and Javascript as well as the basics and control flow of GitHub. The website solves the problem of having to search through multiple pages of notes by storing all of my notes for each language on one organized webpage. During the course of this project I learned the basics to structuring the skeleton of a webpage using HTML, designing and orginizing the page so it is easy to use with CSS, as well as the basics to variables, if statements, and for loops using JavaScript.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
